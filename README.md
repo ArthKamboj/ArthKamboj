@@ -6,7 +6,7 @@
 </p>
 
 ---
-- 🔭 I’m currently working on [Micro Lisp Compiler & Virtual Machine](https://github.com/ArthKamboj/Compiler-Lisp-MVP)
+- 🔭 I’m currently working on building a Vector DB.
 
 - 🌱 I’m currently learning **Low Level Design and Microservice Architecture**
 
