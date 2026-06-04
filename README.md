@@ -6,7 +6,7 @@
 </p>
 
 ---
-- 🔭 I’m currently working on building a Vector DB.
+- 🔭 I have recently built a Vector Database.
 
 - 🌱 I’m currently learning **Low Level Design and Microservice Architecture**
 
